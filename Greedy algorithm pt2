@@ -1,0 +1,3 @@
+OPTIMIZATION PROBLEMS
+-> Find a set of items.
+-> That satisfy some constraints and simulatneously optimize some objective functions.
